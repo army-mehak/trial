@@ -1,4 +1,4 @@
-def test_class():
+def test1_class():
   print("Hello")
   
-test_class()
+test1_class()
